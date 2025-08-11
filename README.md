@@ -1,1 +1,1 @@
-http://localhost:8080/index%20(6).html
+http://localhost:8080/index(6).html
